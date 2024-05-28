@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "57B6E27C-A3EA-4CB1-BB12-7CF58397DD4D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F46889B6-22CC-44E3-9499-2320DFED6F5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "networklayer/Modules/Login/Presenter/LoginPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "login(username:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F46889B6-22CC-44E3-9499-2320DFED6F5D - 7e4cdae1e7a872fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (networklayer.BaseResponse&lt;networklayer.TokenModel&gt;, Swift.Optional&lt;networklayer.NetworkError&gt;) -&gt; () in networklayer.LoginPresenter.login(username: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "networklayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertcancifter/Swift2024/networklayer/networklayer/Modules/Login/Presenter/LoginPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "F46889B6-22CC-44E3-9499-2320DFED6F5D - badf360d7a83c223"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;networklayer.BaseResponse&lt;networklayer.TokenModel&gt;&gt;, Swift.Optional&lt;networklayer.NetworkError&gt;) -&gt; () in networklayer.LoginPresenter.login(username: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "networklayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertcancifter/Swift2024/networklayer/networklayer/Modules/Login/Presenter/LoginPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
